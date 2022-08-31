@@ -42,7 +42,7 @@
     "jquery": "^3.4.1",
     "jquery-touchswipe": "^1.6.19",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.27",
+    "moment-timezone": "^0.5.35",
     "ngx-bootstrap": "^5.3.2",
     "ngx-daterangepicker-material": "^2.1.11",
     "ngx-json-ld": "^0.3.1",
